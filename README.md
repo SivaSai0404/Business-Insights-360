@@ -16,6 +16,6 @@ This Dashboard enables the stakeholders to understand about sales of various dep
 
 
 ## [Key Insights:]
-Net sales were decreased in the month of March 2020.
-Gross Margin % is increasing over the years.
-Net Profit% decreased in the year 2022 compared to 2020 and 2021.
+1.Net sales were decreased in the month of March 2020.
+2.Gross Margin % is increasing over the years.
+3.Net Profit% decreased in the year 2022 compared to 2020 and 2021.
