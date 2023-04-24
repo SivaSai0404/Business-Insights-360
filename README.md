@@ -1,4 +1,4 @@
-# [Problem Statement:](https://sivasai0404.github.io/Business-Insights-360/)
+# Project 1 : (https://sivasai0404.github.io/Business-Insights-360/)
 Atliq technologies (Imaginary company) is a hardware brick & motor, e-commerce company. It is a consumer electronics firm with operations in several countries. Their company is quickly expanding, but they continue to rely on Excel files for data analyses. Excel files are difficult to understand and ineffective in generating insights. In addition, due to a lack of good analytics, the corporation suffered a significant loss in Latin America.
 
 ## Tools And Technologies used:
