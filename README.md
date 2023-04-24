@@ -13,15 +13,15 @@ Atliq technologies (Imaginary company) is a hardware brick & motor, e-commerce c
 * This Dashboard enables the stakeholders to understand about sales of various departments of the company and helped them in data-driven decision making. This project could increase the revenue by 10% cut down the date related expenses by 20%.
 
 ### Home Page for Dashboard:
-![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(639).png)
+![](https://github.com/SivaSai0404/Business-Insights-360/blob/main/Screenshot%20(639).png)
 ### Finance View:
-![]( https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(640).png)
+![]( https://github.com/SivaSai0404/Business-Insights-360/blob/main/Screenshot%20(640).png)
 ### Sales View:
-![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(641).png)
+![](https://github.com/SivaSai0404/Business-Insights-360/blob/main/Screenshot%20(641).png)
 ### Marketing View:
-![]( https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(642).png)
+![]( https://github.com/SivaSai0404/Business-Insights-360/blob/main/Screenshot%20(642).png)
 ### Supply chain view:
-![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(643).png)
+![](https://github.com/SivaSai0404/Business-Insights-360/blob/main/Screenshot%20(643).png)
 
 ## Key Insights:
 * Net sales were decreased in the month of March 2020.
